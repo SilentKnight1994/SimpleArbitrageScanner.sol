@@ -15,6 +15,12 @@ This project implements a contract that scans for price differences between Unis
 - Integration with AAVE (for potential flash loan implementation)
 - Events for logging arbitrage opportunities
 
+- For Testnet Deployment:
+If you're using a testnet like Goerli or Sepolia, you'll need to find the equivalent addresses for that network. Here are some Goerli testnet addresses:
+
+dex1Router (Uniswap V2 Router on Goerli): 0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D
+dex1Factory (Uniswap V2 Factory on Goerli): 0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f
+
 ## Installation
 
 Clone the repository:
